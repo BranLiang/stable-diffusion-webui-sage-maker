@@ -1,5 +1,5 @@
 # stable-diffusion-webui-sage-maker
-Use stable diffusion webui on sage maker
+Use [stable diffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) on sagemaker studio lab for free.
 
 ## Getting start
 
